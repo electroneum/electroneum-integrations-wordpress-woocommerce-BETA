@@ -1,0 +1,6 @@
+*walletInfo
+*walletInfo.txt
+*.zip
+*.xml
+*.iml
+*.DS_Store
